@@ -1,0 +1,5 @@
+E:\TestProjects\IISInstallationTest\IISInstallationTest\bin\Debug\IISInstallationTest.exe
+E:\TestProjects\IISInstallationTest\IISInstallationTest\bin\Debug\IISInstallationTest.pdb
+E:\TestProjects\IISInstallationTest\IISInstallationTest\obj\Debug\IISInstallationTest.exe
+E:\TestProjects\IISInstallationTest\IISInstallationTest\obj\Debug\IISInstallationTest.pdb
+E:\TestProjects\IISInstallationTest\IISInstallationTest\obj\Debug\IISInstallationTest.csprojResolveAssemblyReference.cache
